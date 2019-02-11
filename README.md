@@ -87,5 +87,5 @@ Now when you type my.co in browser, it locates your non-prod webserver and then 
 ---
 
 ## Reference:
-https://stackoverflow.com/questions/21297139/how-do-you-sign-a-certificate-signing-request-with-your-certification-authority/21340898#21340898
-https://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl
+* https://stackoverflow.com/questions/21297139/how-do-you-sign-a-certificate-signing-request-with-your-certification-authority/21340898#21340898
+* https://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl
